@@ -1,3 +1,3 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alexcstanciu/dmp-pubmed/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alexcstanciu/dmp-review/HEAD)
 
-# dmp-pubmed
+# dmp-review
