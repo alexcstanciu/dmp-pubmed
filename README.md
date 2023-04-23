@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alexcstanciu/dmp-review/HEAD) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7848697.svg)](https://doi.org/10.5281/zenodo.7848697)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alexcstanciu/dmp-review/HEAD) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7857251.svg)](https://doi.org/10.5281/zenodo.7857251)
 
 ### About
 
@@ -9,4 +9,3 @@ To be able to use the InstructGPT model it is necessary to obtain the API key fr
 https://platform.openai.com/docs/quickstart
 
 Also included are bibliographic reference files extracted from PubMed and OpenAlex using [Lens.org](https://www.lens.org/), as well as the network and map files created by [VOSviewer](https://www.vosviewer.com/) and the corresponding visualizations.
-
